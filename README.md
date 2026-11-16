@@ -34,7 +34,7 @@ A disciplina aborda a análise de complexidade de algoritmos, algoritmos de busc
 
 ```
 c03_algoritmos_e_estrutura_de_dados_II/
-├── apostila/                 # exercícios da apostila
+├── Apostila/                 # exercícios da apostila
 │   ├── 1_ordenacao_de_dados/
 │   ├── 2_pesquisa/
 │   └── 3_lista_ligada/
@@ -45,7 +45,7 @@ c03_algoritmos_e_estrutura_de_dados_II/
 │   ├── pesquisa_em_vetores/
 │   ├── listas_ligadas/
 │   └── hashing/
-├── slides/                   # exemplos feitos em aula
+├── Slides/                   # exemplos feitos em aula
 │   ├── ponteiro/
 │   ├── pilhas/
 │   └── hashing/
